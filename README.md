@@ -1,2 +1,1 @@
-# bv-net-tutorials
-Tutoriales de VB.NET
+# Tutoriales de VB.NET
